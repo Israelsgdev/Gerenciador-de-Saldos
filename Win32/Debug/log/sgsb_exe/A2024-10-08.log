@@ -1,0 +1,186 @@
+SGSB.exe: 000017A4: 10:41:17 [10.0.0.158]:EDatabaseError : FDQuery3: Type mismatch for field 'SALDO', expecting: String actual: BCD : Addr: $0062FFBA
+SGSB.exe: 00001774: 10:42:05 [10.0.0.158]:EDatabaseError : FDQuery3: Type mismatch for field 'SALDO', expecting: String actual: BCD : Addr: $0062FFBA
+SGSB.exe: 0000149C: 10:43:15 [10.0.0.158]:EConvertError : '1558348.98' is not a valid floating point value : Addr: $0042630E
+SGSB.exe: 000013C4: 10:45:04 [10.0.0.158]:EDatabaseError : FDQuery3: Type mismatch for field 'SALDO', expecting: String actual: BCD : Addr: $0062FFBA
+SGSB.exe: 00000BDC: 10:46:33 []:>--------------------------------------------------------------<
+SGSB.exe: 00000BDC: 10:46:33 [TUniServerModule]:Server First Init.
+SGSB.exe: 00000BDC: 10:46:33 [TUniServerModule]:Start Path = E:\SISTEMAS_ISRAEL\SGS - Financeiro\Win32\Debug\
+SGSB.exe: 00000BDC: 10:46:33 [TUniServerModule]:Debug Mode = ON
+SGSB.exe: 00000BDC: 10:46:33 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+SGSB.exe: 00000BDC: 10:46:33 [TUniServerModule]:Starting HTTP Server on Port: 2425...
+SGSB.exe: 00000BDC: 10:46:33 [TUniServerModule]:HTTP Server Started on Port: 2425
+SGSB.exe: 000016DC: 10:46:36 [10.0.0.158]:EUniSessionException : Invalid session or session Timeout. (Session not found: WHJmAjNM1d10FA38F0C ) : Addr: $008005A0
+SGSB.exe: 000010F8: 10:49:17 []:>--------------------------------------------------------------<
+SGSB.exe: 000010F8: 10:49:17 [TUniServerModule]:Server First Init.
+SGSB.exe: 000010F8: 10:49:17 [TUniServerModule]:Start Path = E:\SISTEMAS_ISRAEL\SGS - Financeiro\Win32\Debug\
+SGSB.exe: 000010F8: 10:49:17 [TUniServerModule]:Debug Mode = ON
+SGSB.exe: 000010F8: 10:49:17 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+SGSB.exe: 000010F8: 10:49:17 [TUniServerModule]:Starting HTTP Server on Port: 2425...
+SGSB.exe: 000010F8: 10:49:17 [TUniServerModule]:HTTP Server Started on Port: 2425
+SGSB.exe: 000015B8: 10:49:19 [10.0.0.158]:EUniSessionException : Invalid session or session Timeout. (Session not found: Wc7uTErGMg10FA390B4 ) : Addr: $008005A0
+SGSB.exe: 00000414: 10:50:53 [10.0.0.158]:EDatabaseError : FDQuery3: Type mismatch for field 'SALDO', expecting: String actual: BCD : Addr: $0062FFBA
+SGSB.exe: 00000C0C: 10:51:11 [10.0.0.158]:EDatabaseError : FDQuery3: Type mismatch for field 'SALDO', expecting: String actual: BCD : Addr: $0062FFBA
+SGSB.exe: 000011F8: 10:52:10 []:>--------------------------------------------------------------<
+SGSB.exe: 000011F8: 10:52:10 [TUniServerModule]:Server First Init.
+SGSB.exe: 000011F8: 10:52:10 [TUniServerModule]:Start Path = E:\SISTEMAS_ISRAEL\SGS - Financeiro\Win32\Debug\
+SGSB.exe: 000011F8: 10:52:10 [TUniServerModule]:Debug Mode = ON
+SGSB.exe: 000011F8: 10:52:10 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+SGSB.exe: 000011F8: 10:52:10 [TUniServerModule]:Starting HTTP Server on Port: 2425...
+SGSB.exe: 000011F8: 10:52:10 [TUniServerModule]:HTTP Server Started on Port: 2425
+SGSB.exe: 00001510: 10:52:26 [10.0.0.158]:EConvertError : 'R$ 1558348.98' is not a valid floating point value : Addr: $0042630E
+SGSB.exe: 00001158: 10:53:08 []:>--------------------------------------------------------------<
+SGSB.exe: 00001158: 10:53:08 [TUniServerModule]:Server First Init.
+SGSB.exe: 00001158: 10:53:08 [TUniServerModule]:Start Path = E:\SISTEMAS_ISRAEL\SGS - Financeiro\Win32\Debug\
+SGSB.exe: 00001158: 10:53:08 [TUniServerModule]:Debug Mode = ON
+SGSB.exe: 00001158: 10:53:08 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+SGSB.exe: 00001158: 10:53:08 [TUniServerModule]:Starting HTTP Server on Port: 2425...
+SGSB.exe: 00001158: 10:53:08 [TUniServerModule]:HTTP Server Started on Port: 2425
+SGSB.exe: 00001518: 10:53:20 [10.0.0.158]:EDatabaseError : FDQuery3: Type mismatch for field 'SALDO', expecting: String actual: FMTBcdField : Addr: $0062FFBA
+SGSB.exe: 000011F4: 10:54:27 []:>--------------------------------------------------------------<
+SGSB.exe: 000011F4: 10:54:27 [TUniServerModule]:Server First Init.
+SGSB.exe: 000011F4: 10:54:27 [TUniServerModule]:Start Path = E:\SISTEMAS_ISRAEL\SGS - Financeiro\Win32\Debug\
+SGSB.exe: 000011F4: 10:54:27 [TUniServerModule]:Debug Mode = ON
+SGSB.exe: 000011F4: 10:54:27 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+SGSB.exe: 000011F4: 10:54:27 [TUniServerModule]:Starting HTTP Server on Port: 2425...
+SGSB.exe: 000011F4: 10:54:27 [TUniServerModule]:HTTP Server Started on Port: 2425
+SGSB.exe: 00000D44: 10:54:48 [10.0.0.158]:EDatabaseError : FDQuery3: Type mismatch for field 'SALDO', expecting: String actual: BCD : Addr: $0062FFBA
+SGSB.exe: 00001554: 10:55:19 []:>--------------------------------------------------------------<
+SGSB.exe: 00001554: 10:55:19 [TUniServerModule]:Server First Init.
+SGSB.exe: 00001554: 10:55:19 [TUniServerModule]:Start Path = E:\SISTEMAS_ISRAEL\SGS - Financeiro\Win32\Debug\
+SGSB.exe: 00001554: 10:55:19 [TUniServerModule]:Debug Mode = ON
+SGSB.exe: 00001554: 10:55:19 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+SGSB.exe: 00001554: 10:55:20 [TUniServerModule]:Starting HTTP Server on Port: 2425...
+SGSB.exe: 00001554: 10:55:20 [TUniServerModule]:HTTP Server Started on Port: 2425
+SGSB.exe: 00000938: 10:55:37 [10.0.0.158]:EDatabaseError : FDQuery3: Type mismatch for field 'SALDO', expecting: String actual: BCD : Addr: $0062FFBA
+SGSB.exe: 000015A0: 10:56:02 []:>--------------------------------------------------------------<
+SGSB.exe: 000015A0: 10:56:02 [TUniServerModule]:Server First Init.
+SGSB.exe: 000015A0: 10:56:02 [TUniServerModule]:Start Path = E:\SISTEMAS_ISRAEL\SGS - Financeiro\Win32\Debug\
+SGSB.exe: 000015A0: 10:56:02 [TUniServerModule]:Debug Mode = ON
+SGSB.exe: 000015A0: 10:56:02 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+SGSB.exe: 000015A0: 10:56:02 [TUniServerModule]:Starting HTTP Server on Port: 2425...
+SGSB.exe: 000015A0: 10:56:02 [TUniServerModule]:HTTP Server Started on Port: 2425
+SGSB.exe: 0000153C: 10:56:12 [10.0.0.158]:EConvertError : 'R$ 1' is not a valid floating point value : Addr: $0042630E
+SGSB.exe: 00000E4C: 10:56:16 [10.0.0.158]:EConvertError : 'R$ 1' is not a valid floating point value : Addr: $0042630E
+SGSB.exe: 0000109C: 10:58:08 []:>--------------------------------------------------------------<
+SGSB.exe: 0000109C: 10:58:08 [TUniServerModule]:Server First Init.
+SGSB.exe: 0000109C: 10:58:08 [TUniServerModule]:Start Path = E:\SISTEMAS_ISRAEL\SGS - Financeiro\Win32\Debug\
+SGSB.exe: 0000109C: 10:58:08 [TUniServerModule]:Debug Mode = ON
+SGSB.exe: 0000109C: 10:58:08 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+SGSB.exe: 0000109C: 10:58:08 [TUniServerModule]:Starting HTTP Server on Port: 2425...
+SGSB.exe: 0000109C: 10:58:08 [TUniServerModule]:HTTP Server Started on Port: 2425
+SGSB.exe: 00000774: 10:58:22 [FDQuery3: Field 'SALDONUM' not found-10.0.0.158]:EDatabaseError : FDQuery3: Field 'SALDONUM' not found : Addr: $0062FFBA
+SGSB.exe: 00000838: 10:58:34 [10.0.0.158]:EDatabaseError : FDQuery3: Field 'SALDONUM' not found : Addr: $0062FFBA
+SGSB.exe: 000014F4: 11:00:42 [FDQuery3: Field 'SALDONUM' not found-10.0.0.158]:EDatabaseError : FDQuery3: Field 'SALDONUM' not found : Addr: $0062FFBA
+SGSB.exe: 00000CB0: 11:01:54 []:>--------------------------------------------------------------<
+SGSB.exe: 00000CB0: 11:01:54 [TUniServerModule]:Server First Init.
+SGSB.exe: 00000CB0: 11:01:54 [TUniServerModule]:Start Path = E:\SISTEMAS_ISRAEL\SGS - Financeiro\Win32\Debug\
+SGSB.exe: 00000CB0: 11:01:54 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+SGSB.exe: 00000CB0: 11:01:54 [TUniServerModule]:Starting HTTP Server on Port: 2425...
+SGSB.exe: 00000CB0: 11:01:54 [TUniServerModule]:HTTP Server Started on Port: 2425
+SGSB.exe: 0000100C: 11:02:02 [FDQuery3: Field 'SALDONUM' not found-10.0.0.158]:EDatabaseError : FDQuery3: Field 'SALDONUM' not found : Addr: $0062FFBA
+SGSB.exe: 00000CB0: 11:02:58 [TUniServerModule]:Shutting Down Server.
+SGSB.exe: 00000CB0: 11:02:58 [TUniServerModule]:Stopping HTTP Server.
+SGSB.exe: 00000CB0: 11:02:59 [TUniServerModule]:HTTP Server Stopped.
+SGSB.exe: 00000CB0: 11:02:59 [TUniGUISessionManager]:Terminating Session manager.
+SGSB.exe: 00000CB0: 11:02:59 [TUniGUISessionManager]:Stopping Cache Eraser...
+SGSB.exe: 00000CB0: 11:02:59 [TUniGUISessionManager]:Cache Eraser Stopped.
+SGSB.exe: 00000CB0: 11:02:59 [TUniGUISessionManager]:Destroying Worker Threads.
+SGSB.exe: 00000CB0: 11:02:59 [TUniGUISessionManager]:Session manager terminated.
+SGSB.exe: 00000CB0: 11:02:59 [TUniWebSocketStack]:Terminating...
+SGSB.exe: 00000CB0: 11:02:59 [TUniGUIMessageQ]:Terminated.
+SGSB.exe: 00000CB0: 11:02:59 [TUniWebSocketStack]:Terminated.
+SGSB.exe: 00000CB0: 11:02:59 [TUniServerModule]:Server Shutdown Completed.
+SGSB.exe: 00000CB0: 11:02:59 []:<-------------------------------------------------------------->
+SGSB.exe: 00000CB0: 11:02:59 [Terminated]:Exit Code: 0
+SGSB.exe: 00001710: 11:03:04 []:>--------------------------------------------------------------<
+SGSB.exe: 00001710: 11:03:04 [TUniServerModule]:Server First Init.
+SGSB.exe: 00001710: 11:03:04 [TUniServerModule]:Start Path = E:\SISTEMAS_ISRAEL\SGS - Financeiro\Win32\Debug\
+SGSB.exe: 00001710: 11:03:04 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+SGSB.exe: 00001710: 11:03:04 [TUniServerModule]:Starting HTTP Server on Port: 2425...
+SGSB.exe: 00001710: 11:03:04 [TUniServerModule]:HTTP Server Started on Port: 2425
+SGSB.exe: 00001710: 11:05:30 [TUniServerModule]:Shutting Down Server.
+SGSB.exe: 00001710: 11:05:30 [TUniServerModule]:Stopping HTTP Server.
+SGSB.exe: 00001710: 11:05:32 [TUniServerModule]:HTTP Server Stopped.
+SGSB.exe: 00001710: 11:05:32 [TUniGUISessionManager]:Terminating Session manager.
+SGSB.exe: 00001710: 11:05:32 [TUniGUISessionManager]:Stopping Cache Eraser...
+SGSB.exe: 00001710: 11:05:32 [TUniGUISessionManager]:Cache Eraser Stopped.
+SGSB.exe: 00001710: 11:05:32 [TUniGUISessionManager]:Destroying Worker Threads.
+SGSB.exe: 00001710: 11:05:32 [TUniGUISessionManager]:Session manager terminated.
+SGSB.exe: 00001710: 11:05:32 [TUniWebSocketStack]:Terminating...
+SGSB.exe: 00001710: 11:05:32 [TUniGUIMessageQ]:Terminated.
+SGSB.exe: 00001710: 11:05:32 [TUniWebSocketStack]:Terminated.
+SGSB.exe: 00001710: 11:05:32 [TUniServerModule]:Server Shutdown Completed.
+SGSB.exe: 00001710: 11:05:32 []:<-------------------------------------------------------------->
+SGSB.exe: 00001710: 11:05:32 [Terminated]:Exit Code: 0
+SGSB.exe: 00000D88: 11:05:36 []:>--------------------------------------------------------------<
+SGSB.exe: 00000D88: 11:05:36 [TUniServerModule]:Server First Init.
+SGSB.exe: 00000D88: 11:05:36 [TUniServerModule]:Start Path = E:\SISTEMAS_ISRAEL\SGS - Financeiro\Win32\Debug\
+SGSB.exe: 00000D88: 11:05:36 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+SGSB.exe: 00000D88: 11:05:37 [TUniServerModule]:Starting HTTP Server on Port: 2425...
+SGSB.exe: 00000D88: 11:05:37 [TUniServerModule]:HTTP Server Started on Port: 2425
+SGSB.exe: 00000BB0: 11:05:37 [10.0.0.158]:EUniSessionException : Invalid session or session Timeout. (Session not found: Ai1UboJo3110FA39527 ) : Addr: $008005A0
+SGSB.exe: 00001634: 11:05:37 [10.0.0.158]:EUniSessionException : Invalid session or session Timeout. (Session not found: Ai1UboJo3110FA39527 ) : Addr: $008005A0
+SGSB.exe: 00000BB0: 11:05:37 [10.0.0.158]:EUniSessionException : Invalid session or session Timeout. (Session not found: Ai1UboJo3110FA39527 ) : Addr: $008005A0
+SGSB.exe: 00000BB0: 11:05:37 [10.0.0.158]:EUniSessionException : Invalid session or session Timeout. (Session not found: Ai1UboJo3110FA39527 ) : Addr: $008005A0
+SGSB.exe: 00000BB0: 11:05:37 [10.0.0.158]:EUniSessionException : Invalid session or session Timeout. (Session not found: Ai1UboJo3110FA39527 ) : Addr: $008005A0
+SGSB.exe: 00001634: 11:05:37 [10.0.0.158]:EUniSessionException : Invalid session or session Timeout. (Session not found: Ai1UboJo3110FA39527 ) : Addr: $008005A0
+SGSB.exe: 00000D88: 11:10:49 [TUniServerModule]:Shutting Down Server.
+SGSB.exe: 00000D88: 11:10:49 [TUniServerModule]:Stopping HTTP Server.
+SGSB.exe: 00000D88: 11:10:50 [TUniServerModule]:HTTP Server Stopped.
+SGSB.exe: 00000D88: 11:10:50 [TUniGUISessionManager]:Terminating Session manager.
+SGSB.exe: 00000D88: 11:10:50 [TUniGUISessionManager]:Stopping Cache Eraser...
+SGSB.exe: 00000D88: 11:10:50 [TUniGUISessionManager]:Cache Eraser Stopped.
+SGSB.exe: 00000D88: 11:10:50 [TUniGUISessionManager]:Destroying Worker Threads.
+SGSB.exe: 00000D88: 11:10:50 [TUniGUISessionManager]:Session manager terminated.
+SGSB.exe: 00000D88: 11:10:50 [TUniWebSocketStack]:Terminating...
+SGSB.exe: 00000D88: 11:10:50 [TUniGUIMessageQ]:Terminated.
+SGSB.exe: 00000D88: 11:10:50 [TUniWebSocketStack]:Terminated.
+SGSB.exe: 00000D88: 11:10:50 [TUniServerModule]:Server Shutdown Completed.
+SGSB.exe: 00000D88: 11:10:50 []:<-------------------------------------------------------------->
+SGSB.exe: 00000D88: 11:10:50 [Terminated]:Exit Code: 0
+SGSB.exe: 00001174: 11:10:58 []:>--------------------------------------------------------------<
+SGSB.exe: 00001174: 11:10:58 [TUniServerModule]:Server First Init.
+SGSB.exe: 00001174: 11:10:58 [TUniServerModule]:Start Path = E:\SISTEMAS_ISRAEL\SGS - Financeiro\Win32\Debug\
+SGSB.exe: 00001174: 11:10:58 [TUniServerModule]:Debug Mode = ON
+SGSB.exe: 00001174: 11:10:58 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+SGSB.exe: 00001174: 11:10:58 [TUniServerModule]:Starting HTTP Server on Port: 2425...
+SGSB.exe: 00001174: 11:10:58 [TUniServerModule]:HTTP Server Started on Port: 2425
+SGSB.exe: 000014C4: 11:11:03 [10.0.0.158]:EUniSessionException : Invalid session or session Timeout. (Session not found: 2KLwy4p8XL10FA395B0 ) : Addr: $008005A0
+SGSB.exe: 00000E70: 11:13:02 []:>--------------------------------------------------------------<
+SGSB.exe: 00000E70: 11:13:02 [TUniServerModule]:Server First Init.
+SGSB.exe: 00000E70: 11:13:02 [TUniServerModule]:Start Path = E:\SISTEMAS_ISRAEL\SGS - Financeiro\Win32\Debug\
+SGSB.exe: 00000E70: 11:13:02 [TUniServerModule]:Debug Mode = ON
+SGSB.exe: 00000E70: 11:13:02 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+SGSB.exe: 00000E70: 11:13:02 [TUniServerModule]:Starting HTTP Server on Port: 2425...
+SGSB.exe: 00000E70: 11:13:02 [TUniServerModule]:HTTP Server Started on Port: 2425
+SGSB.exe: 0000150C: 11:14:22 []:>--------------------------------------------------------------<
+SGSB.exe: 0000150C: 11:14:22 [TUniServerModule]:Server First Init.
+SGSB.exe: 0000150C: 11:14:22 [TUniServerModule]:Start Path = E:\SISTEMAS_ISRAEL\SGS - Financeiro\Win32\Debug\
+SGSB.exe: 0000150C: 11:14:22 [TUniGUISessionManager]:Cache erase job created, Folder count: [2]
+SGSB.exe: 0000150C: 11:14:22 [TUniServerModule]:Starting HTTP Server on Port: 2425...
+SGSB.exe: 0000150C: 11:14:22 [TUniServerModule]:HTTP Server Started on Port: 2425
+SGSB.exe: 00000C10: 11:14:30 [10.0.0.158]:EDatabaseError : FDQuery3: Parameter 'saldonum' not found : Addr: $0062FFBA
+SGSB.exe: 0000150C: 11:15:17 [TUniServerModule]:Shutting Down Server.
+SGSB.exe: 0000150C: 11:15:17 [TUniServerModule]:Stopping HTTP Server.
+SGSB.exe: 0000150C: 11:15:18 [TUniServerModule]:HTTP Server Stopped.
+SGSB.exe: 0000150C: 11:15:18 [TUniGUISessionManager]:Terminating Session manager.
+SGSB.exe: 0000150C: 11:15:18 [TUniGUISessionManager]:Stopping Cache Eraser...
+SGSB.exe: 0000150C: 11:15:18 [TUniGUISessionManager]:Cache Eraser Stopped.
+SGSB.exe: 0000150C: 11:15:18 [TUniGUISessionManager]:Destroying Worker Threads.
+SGSB.exe: 0000150C: 11:15:18 [TUniGUISessionManager]:Session manager terminated.
+SGSB.exe: 0000150C: 11:15:18 [TUniWebSocketStack]:Terminating...
+SGSB.exe: 0000150C: 11:15:18 [TUniGUIMessageQ]:Terminated.
+SGSB.exe: 0000150C: 11:15:18 [TUniWebSocketStack]:Terminated.
+SGSB.exe: 0000150C: 11:15:18 [TUniServerModule]:Server Shutdown Completed.
+SGSB.exe: 0000150C: 11:15:18 []:<-------------------------------------------------------------->
+SGSB.exe: 0000150C: 11:15:18 [Terminated]:Exit Code: 0
+SGSB.exe: 00001484: 11:15:22 []:>--------------------------------------------------------------<
+SGSB.exe: 00001484: 11:15:22 [TUniServerModule]:Server First Init.
+SGSB.exe: 00001484: 11:15:22 [TUniServerModule]:Start Path = E:\SISTEMAS_ISRAEL\SGS - Financeiro\Win32\Debug\
+SGSB.exe: 00001484: 11:15:22 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+SGSB.exe: 00001484: 11:15:22 [TUniServerModule]:Starting HTTP Server on Port: 2425...
+SGSB.exe: 00001484: 11:15:22 [TUniServerModule]:HTTP Server Started on Port: 2425
+SGSB.exe: 00000F28: 11:42:12 [10.0.0.158]:EUniSessionException : Invalid session or session Timeout. (Session not found: i8OHR3RpK810FA39855 ) : Addr: $008005A0
+SGSB.exe: 00000DAC: 11:42:12 [10.0.0.158]:EUniSessionException : Invalid session or session Timeout. (Session not found: i8OHR3RpK810FA39855 ) : Addr: $008005A0
+SGSB.exe: 00000AA0: 14:08:48 [10.0.0.158]:EUniSessionException : Invalid session or session Timeout. (Session not found: HYRamC58Hf10FA39F9F ) : Addr: $008005A0
+SGSB.exe: 0000135C: 18:47:50 [10.0.0.158]:EUniSessionException : Invalid session or session Timeout. (Session not found: Lpk9mPVqSr10FA3F1CD ) : Addr: $008005A0

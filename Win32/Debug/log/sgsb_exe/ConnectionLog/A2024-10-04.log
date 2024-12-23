@@ -1,0 +1,9 @@
+SGSB.exe: 00000778: 10:41:13 [10.0.0.158]:Failed Sequence Recovery: SeqId: 6, Event: itemclick
+SGSB.exe: 000013F4: 10:41:18 [10.0.0.158]:Failed Sequence Recovery: SeqId: 7, Event: selectionchange
+SGSB.exe: 00000778: 10:41:39 [10.0.0.158]:Sequence sent from cache:  SeqId: 6
+SGSB.exe: 00000778: 10:41:39 [10.0.0.158]:Processed: Id: 6, Evt: itemclick, [cRoyq5CWYV10F9D7463]
+SGSB.exe: 000013F4: 10:41:39 [10.0.0.158]:Sequence sent from cache:  SeqId: 7
+SGSB.exe: 000013F4: 10:41:39 [10.0.0.158]:Processed: Id: 7, Evt: selectionchange, [cRoyq5CWYV10F9D7463]
+SGSB.exe: 00000C0C: 14:37:30 [10.0.0.158]:Failed Sequence Recovery: SeqId: 15, Event: click
+SGSB.exe: 00000C0C: 14:37:30 [10.0.0.158]:Sequence sent from cache:  SeqId: 15
+SGSB.exe: 00000C0C: 14:37:30 [10.0.0.158]:Processed: Id: 15, Evt: click, [sAItazvKxg10F9DB433]

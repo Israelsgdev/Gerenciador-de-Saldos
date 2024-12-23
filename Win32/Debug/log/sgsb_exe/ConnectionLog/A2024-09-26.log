@@ -1,0 +1,4 @@
+SGSB.exe: 00000F94: 09:03:06 [10.0.0.158]:Failed Sequence Recovery: SeqId: 13, Event: click
+SGSB.exe: 000016CC: 09:04:19 [10.0.0.158]:Failed Sequence Recovery: SeqId: 12, Event: click
+SGSB.exe: 0000097C: 09:05:20 [10.0.0.158]:Failed Sequence Recovery: SeqId: 12, Event: click
+SGSB.exe: 00000520: 15:14:47 [10.0.0.158]:Failed Sequence Recovery: SeqId: 13, Event: click

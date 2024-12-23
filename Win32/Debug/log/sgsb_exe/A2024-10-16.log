@@ -1,0 +1,44 @@
+SGSB.exe: 00000C18: 08:28:49 []:>--------------------------------------------------------------<
+SGSB.exe: 00000C18: 08:28:49 [TUniServerModule]:Server First Init.
+SGSB.exe: 00000C18: 08:28:49 [TUniServerModule]:Start Path = E:\SISTEMAS_ISRAEL\SGS - Financeiro\Win32\Debug\
+SGSB.exe: 00000C18: 08:28:49 [TUniServerModule]:Debug Mode = ON
+SGSB.exe: 00000C18: 08:28:49 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+SGSB.exe: 00000C18: 08:28:49 [TUniServerModule]:Starting HTTP Server on Port: 2425...
+SGSB.exe: 00000C18: 08:28:49 [TUniServerModule]:HTTP Server Started on Port: 2425
+SGSB.exe: 00000C28: 08:28:49 [10.0.0.158]:EUniSessionException : Invalid session or session Timeout. (Session not found: cXHAQZ2Ntn10FAF9972 ) : Addr: $008005A0
+SGSB.exe: 0000109C: 08:28:57 [10.0.0.158]:EConvertError : 'R$ 500000' is not a valid floating point value : Addr: $0042630E
+SGSB.exe: 00001174: 08:29:09 [10.0.0.158]:EConvertError : 'R$ 500000' is not a valid floating point value : Addr: $0042630E
+SGSB.exe: 00000F28: 08:30:01 []:>--------------------------------------------------------------<
+SGSB.exe: 00000F28: 08:30:01 [TUniServerModule]:Server First Init.
+SGSB.exe: 00000F28: 08:30:01 [TUniServerModule]:Start Path = E:\SISTEMAS_ISRAEL\SGS - Financeiro\Win32\Debug\
+SGSB.exe: 00000F28: 08:30:01 [TUniServerModule]:Debug Mode = ON
+SGSB.exe: 00000F28: 08:30:01 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+SGSB.exe: 00000F28: 08:30:01 [TUniServerModule]:Starting HTTP Server on Port: 2425...
+SGSB.exe: 00000F28: 08:30:01 [TUniServerModule]:HTTP Server Started on Port: 2425
+SGSB.exe: 00000B70: 08:30:02 [10.0.0.158]:EUniSessionException : Invalid session or session Timeout. (Session not found: jnw3qGVmP410FAFA029 ) : Addr: $008005A0
+SGSB.exe: 000014F4: 08:31:17 [10.0.0.158]:EConvertError : '451531.59' is not a valid floating point value : Addr: $0042630E
+SGSB.exe: 00000F28: 08:32:03 [TUniServerModule]:Shutting Down Server.
+SGSB.exe: 00000F28: 08:32:03 [TUniServerModule]:Stopping HTTP Server.
+SGSB.exe: 00000F28: 08:32:03 [TUniServerModule]:HTTP Server Stopped.
+SGSB.exe: 00000F28: 08:32:03 [TUniGUISessionManager]:Terminating Session manager.
+SGSB.exe: 00000F28: 08:32:03 [TUniGUISessionManager]:Stopping Cache Eraser...
+SGSB.exe: 00000F28: 08:32:03 [TUniGUISessionManager]:Cache Eraser Stopped.
+SGSB.exe: 00000F28: 08:32:03 [TUniGUISessionManager]:Destroying Worker Threads.
+SGSB.exe: 00000F28: 08:32:03 [TUniGUISessionManager]:Session manager terminated.
+SGSB.exe: 00000F28: 08:32:03 [TUniWebSocketStack]:Terminating...
+SGSB.exe: 00000F28: 08:32:03 [TUniGUIMessageQ]:Terminated.
+SGSB.exe: 00000F28: 08:32:03 [TUniWebSocketStack]:Terminated.
+SGSB.exe: 00000F28: 08:32:03 [TUniServerModule]:Server Shutdown Completed.
+SGSB.exe: 00000F28: 08:32:03 []:<-------------------------------------------------------------->
+SGSB.exe: 00000F28: 08:32:03 [Terminated]:Exit Code: 0
+SGSB.exe: 00001374: 08:32:15 []:>--------------------------------------------------------------<
+SGSB.exe: 00001374: 08:32:15 [TUniServerModule]:Server First Init.
+SGSB.exe: 00001374: 08:32:15 [TUniServerModule]:Start Path = E:\SISTEMAS_ISRAEL\SGS - Financeiro\Win32\Debug\
+SGSB.exe: 00001374: 08:32:15 [TUniServerModule]:Debug Mode = ON
+SGSB.exe: 00001374: 08:32:15 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+SGSB.exe: 00001374: 08:32:15 [TUniServerModule]:Starting HTTP Server on Port: 2425...
+SGSB.exe: 00001374: 08:32:15 [TUniServerModule]:HTTP Server Started on Port: 2425
+SGSB.exe: 00001498: 08:32:56 [10.0.0.158]:EUniSessionException : Invalid session or session Timeout. (Session not found: NkwXMjs86C10FAFA07C ) : Addr: $008005A0
+SGSB.exe: 000010C8: 08:32:56 [10.0.0.158]:EUniSessionException : Invalid session or session Timeout. (Session not found: NkwXMjs86C10FAFA07C ) : Addr: $008005A0
+SGSB.exe: 00000584: 10:51:18 [10.0.0.158]:EUniSessionException : Invalid session or session Timeout. (Session not found: 1NcNK1Foim10FAFA147 ) : Addr: $008005A0
+SGSB.exe: 000010AC: 10:51:18 [10.0.0.158]:EUniSessionException : Invalid session or session Timeout. (Session not found: 1NcNK1Foim10FAFA147 ) : Addr: $008005A0

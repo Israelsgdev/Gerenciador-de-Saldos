@@ -1,0 +1,18 @@
+SGSB.exe: 00000888: 16:38:08 []:>--------------------------------------------------------------<
+SGSB.exe: 00000888: 16:38:08 [TUniServerModule]:Server First Init.
+SGSB.exe: 00000888: 16:38:08 [TUniServerModule]:Start Path = E:\SISTEMAS_ISRAEL\SGS - Financeiro\Win32\Debug\
+SGSB.exe: 00000888: 16:38:08 [TUniServerModule]:Debug Mode = ON
+SGSB.exe: 00000888: 16:38:08 [TUniServerModule]:Starting HTTP Server on Port: 2425...
+SGSB.exe: 00000888: 16:38:08 [TUniServerModule]:HTTP Server Started on Port: 2425
+SGSB.exe: 0000150C: 16:40:19 []:>--------------------------------------------------------------<
+SGSB.exe: 0000150C: 16:40:19 [TUniServerModule]:Server First Init.
+SGSB.exe: 0000150C: 16:40:19 [TUniServerModule]:Start Path = E:\SISTEMAS_ISRAEL\SGS - Financeiro\Win32\Debug\
+SGSB.exe: 0000150C: 16:40:19 [TUniServerModule]:Debug Mode = ON
+SGSB.exe: 0000150C: 16:40:19 [TUniServerModule]:Starting HTTP Server on Port: 2425...
+SGSB.exe: 0000150C: 16:40:19 [TUniServerModule]:HTTP Server Started on Port: 2425
+SGSB.exe: 000004D4: 18:00:00 []:>--------------------------------------------------------------<
+SGSB.exe: 000004D4: 18:00:00 [TUniServerModule]:Server First Init.
+SGSB.exe: 000004D4: 18:00:00 [TUniServerModule]:Start Path = E:\SISTEMAS_ISRAEL\SGS - Financeiro\Win32\Debug\
+SGSB.exe: 000004D4: 18:00:00 [TUniServerModule]:Debug Mode = ON
+SGSB.exe: 000004D4: 18:00:01 [TUniServerModule]:Starting HTTP Server on Port: 2425...
+SGSB.exe: 000004D4: 18:00:01 [TUniServerModule]:HTTP Server Started on Port: 2425
